@@ -64,7 +64,7 @@ defaultContentLanguage = 'en'
   mono_font       = "Fira Code" # Default is System font
 
     [params.footer]
-        copyright = "© :YEAR: リフクス ✿ Vladimir Blinkov. Made with ❤️. Licensed under [Apache-2.0](https://github.com/rifux/rifux.dev/blob/release/LICENSE)"
+        copyright = "© :YEAR: リフクス ✿ Vladimir Blinkov. Made with ❤️. Licensed under [Apache-2.0](https://github.com/rifux/rifux.dev-docs/blob/release/LICENSE)"
         version   = true # include git commit info in footer
 
     [params.social]
@@ -88,7 +88,7 @@ defaultContentLanguage = 'en'
         prismTheme      = "twilight"                          # (optional) - Set theme for PrismJS. Options include: lotusdocs (default), solarized-light, twilight, lucario
 
         # gitinfo
-        repoURL         = "https://github.com/rifux/rifux.dev"  # Git repository URL for your site [support for GitHub, GitLab, and BitBucket]
+        repoURL         = "https://github.com/rifux/rifux.dev-docs"  # Git repository URL for your site [support for GitHub, GitLab, and BitBucket]
         repoBranch      = "main"                           # Name of your Git repository branch
         editPage        = true                                # enable 'Edit this page' feature - default false
         lastMod         = true                                # enable 'Last modified' date on pages - default false
